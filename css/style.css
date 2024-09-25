@@ -1,0 +1,26 @@
+body {
+    /* add in font family with goolge font link in html head*/
+}
+
+.alert-container {}
+
+.callout-container {
+    height: 100vh;
+
+    /*background: url('../images/whiskey-background.jpg') no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; would need to add in photo (like love running) i'm running out of time on this*/
+
+    /*flexbox center content vertically and horizontally*/
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.quotes-container {}
+
+.features-container {}
